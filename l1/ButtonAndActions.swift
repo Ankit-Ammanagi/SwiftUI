@@ -68,9 +68,7 @@ struct ButtonAndActions: View {
                     )
                     
             }
-
-
-
+        
         }
     }
 }
