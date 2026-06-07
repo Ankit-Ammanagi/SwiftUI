@@ -11,7 +11,7 @@ import SwiftUI
 struct l1App: App {
     var body: some Scene {
         WindowGroup {
-            TextEditorUI()
+            PickerstyleUI()
         }
     }
 }
